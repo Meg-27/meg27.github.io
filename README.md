@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+Theme:yay-theme
+Title:Welcome to the Meg27 Homepage
+Description:Feel free to bookmark this to keep an eye on my project updates
 
 You can use the [editor on GitHub](https://github.com/Meg-27/meg27.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
